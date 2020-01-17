@@ -1,6 +1,9 @@
 # data
 Dossier destiné à partager des données produites dans le cadre du projet Data&Musée. Description en français puis en anglais. Lorsque le format n'est pas précisé, c'est qu'il s'agit du format [N-Triples](https://en.wikipedia.org/wiki/N-Triples) gzippé.
 
+Une interface de test est accessible à l'url
+https://ws49-cl4-jena.tl.teralab-datascience.fr/yasgui.html
+
 Shared directory for data produced by the [Data&amp;Musée](http://datamusee.fr/) french project. English description below. When the format is not specified, it is because it is the [N-Triples](https://en.wikipedia.org/wiki/N-Triples) gzipped format.
 
 ## dmsites (fr)
@@ -10,12 +13,12 @@ Le format du fichier est [N-Triples](https://en.wikipedia.org/wiki/N-Triples) gz
 Le dataset est accessible sur le point d'accès sparql:
 https://ws49-cl4-jena.tl.teralab-datascience.fr/dmsites/sparql
 
-Une interface de test est accessible à l'url
-https://ws49-cl4-jena.tl.teralab-datascience.fr/yasgui.html
-
 ======================================================================
 # English descriptions
 When the format is not specified, it is because it is the [N-Triples](https://en.wikipedia.org/wiki/N-Triples) gzipped format.
+
+User interface for test:
+https://ws49-cl4-jena.tl.teralab-datascience.fr/yasgui.html
 
 ## dmsites (en)
 Intended to contain data on French cultural sites (museums, monuments, historic sites ...). The first data incorporated were descriptions of the museums and monuments involved in the Data&Musée project. Other data will be gradually incorporated. The data concerns in particular the geographic position, the preferred and alternative labels, the sameAs links to other knowledge graphs. The main uris used are those used in the other datasets produced by [Data&Musée](http://datamusee.fr/).
@@ -24,5 +27,3 @@ The file format is [N-Triples](https://en.wikipedia.org/wiki/N-Triples) gzipped.
 Sparql access point:
 https://ws49-cl4-jena.tl.teralab-datascience.fr/dmsites/sparql
 
-User interface fo test:
-https://ws49-cl4-jena.tl.teralab-datascience.fr/yasgui.html
