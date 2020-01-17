@@ -13,7 +13,7 @@ Le dataset est accessible sur le point d'accès sparql:
 https://ws49-cl4-jena.tl.teralab-datascience.fr/dmsites/sparql
 
 ## dmexpo (fr)
-Destiné à contenir des données sur des expositions. Les premières données incorporées concernent des descriptions d'expositions qui ont eu lieu, ont lieu ou vont avoir lieu dans une des musées du groupement [Paris Musées](http://www.parismusees.paris.fr/fr).
+Destiné à contenir des données sur des expositions. Les premières données incorporées concernent des descriptions d'expositions qui ont eu lieu, ont lieu ou vont avoir lieu dans une des musées du groupement [Paris Musées](http://www.parismusees.paris.fr/fr) (près de 300 expositions au 17/1/2020).
 
 Le dataset est accessible sur le point d'accès sparql:
 https://ws49-cl4-jena.tl.teralab-datascience.fr/dmexpo/sparql
@@ -32,7 +32,7 @@ Sparql access point:
 https://ws49-cl4-jena.tl.teralab-datascience.fr/dmsites/sparql
 
 ## dmexpo (fr)
-Intended to contain data on exhibitions. The first data incorporated relate to descriptions of exhibitions which have taken place, are taking place or are about to take place in one of the museums of the [Paris Musées](http://www.parismusees.paris.fr/fr) group. .
+Intended to contain data on exhibitions. The first data incorporated relate to descriptions of exhibitions which have taken place, are taking place or are about to take place in one of the museums of the [Paris Musées](http://www.parismusees.paris.fr/fr) group (nearly 300 exhibitions on 1/17/2020).
 
 Sparql access point:
 https://ws49-cl4-jena.tl.teralab-datascience.fr/dmexpo/sparql
