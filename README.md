@@ -18,6 +18,9 @@ Destiné à contenir des données sur des expositions. Les premières données i
 Le dataset est accessible sur le point d'accès sparql:
 https://ws49-cl4-jena.tl.teralab-datascience.fr/dmexpo/sparql
 
+## hda (fr)
+Représentation RDF proposée pour les données "Histoire des Arts" produit à partir du fichier JSON disponible en données ouvertes sur [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/ressources-pedagogiques-du-portail-histoire-des-arts/). Contient la description d'environ 5000 fiches pédagogiques sur l'histoire des arts, en rapport avec des programmes scolaires français.
+
 ======================================================================
 # English descriptions
 When the format is not specified, it is because it is the [N-Triples](https://en.wikipedia.org/wiki/N-Triples) gzipped format.
