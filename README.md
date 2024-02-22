@@ -2,7 +2,7 @@
 Dossier destiné à partager des données produites dans le cadre du projet Data&Musée. Description en français puis en anglais. Lorsque le format n'est pas précisé, c'est qu'il s'agit du format [N-Triples](https://en.wikipedia.org/wiki/N-Triples) gzippé.
 
 Une interface de test est accessible à l'url
-https://ws49-cl4-jena.tl.teralab-datascience.fr/yasgui.html
+[Sparql access](https://grains-de-culture.fr/fuseki/ui)
 
 Shared directory for data produced by the [Data&amp;Musée](http://datamusee.fr/) french project. English description below. 
 
